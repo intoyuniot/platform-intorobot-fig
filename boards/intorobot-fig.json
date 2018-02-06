@@ -20,7 +20,7 @@
         "arduino",
         "espidf"
     ],
-    "name": "IntoRobot-Fig",
+    "name": "IntoRobot Fig(ESP32 Module)",
     "upload": {
         "flash_size": "4MB",
         "maximum_ram_size": 294912,
